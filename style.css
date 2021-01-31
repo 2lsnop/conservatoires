@@ -1,1 +1,15 @@
 #mapid { height: 500px; width: 100%}
+
+body, h1, h2 {
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  font-size: 22px;
+  color: #000000;
+}
+
+h2 {
+  font-size: 14px;
+  color: #181818;
+}
