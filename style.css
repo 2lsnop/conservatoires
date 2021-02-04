@@ -7,9 +7,12 @@ body, h1, h2 {
 h1 {
   font-size: 22px;
   color: #000000;
+  font-weight: 700;
 }
 
 h2 {
   font-size: 14px;
+  line-height: 17px;
   color: #181818;
+  font-weight: 400;  
 }
